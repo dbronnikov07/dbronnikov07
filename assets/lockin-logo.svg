@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="440" height="128" viewBox="0 0 440 128">
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">
   <!-- Lock In logo. Edit freely: colors are the two stop-colors, the mark is 3 shapes. -->
   <defs>
     <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
@@ -11,6 +11,4 @@
   <path d="M44 58V46a20 20 0 0 1 40 0v12" fill="none" stroke="#FBFAFF" stroke-width="10" stroke-linecap="round"/>
   <rect x="30" y="56" width="68" height="50" rx="14" fill="#FBFAFF"/>
   <rect x="56" y="66" width="16" height="30" rx="5" fill="url(#g)"/>
-  <!-- wordmark -->
-  <text x="152" y="86" font-family="'DM Sans', 'SF Pro Display', Helvetica, Arial, sans-serif" font-size="68" font-weight="800" letter-spacing="-2" fill="#16131F">Lock In</text>
 </svg>
