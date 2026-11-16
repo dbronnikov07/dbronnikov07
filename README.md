@@ -2,7 +2,7 @@
 
 ### 🔒 Featured: [Lock In](https://github.com/Patrick-Lahoud/lockin) · 🥈 2nd place, ONHacks 2026
 
-<a href="https://github.com/Patrick-Lahoud/lockin"><img src="assets/lockin-logo.svg" alt="Lock In" height="64"></a>
+<a href="https://github.com/Patrick-Lahoud/lockin"><img src="assets/lockin-icon.svg" alt="Lock In" height="64"></a>
 
 **One timer locks your phone and your laptop.** You put your phone in a box and tap Lock In. A servo latch locks it, and social media goes dark on the laptop in every browser. An AI agent reads your notifications while you focus. Real emergencies get through, tasks land on your to-do list, and everything else waits for a summary.
 
